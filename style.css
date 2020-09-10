@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(70, 142, 236);
+    font: normal 15pt Arial;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+input{
+    border-radius: 1rem;
+    width: 5rem;
+    height: 1rem;
+}
+#botao{
+    width: 5rem;
+    height: 1.5rem;
+    background-color: #00ff00;
+}
+header{
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}
+section{
+   background-color: silver;
+   border-radius: 1rem;
+   width: 40rem;
+   padding: 5rem;
+   margin: auto;
+   box-shadow: .5rem .5rem 1rem rgba(0, 0, 0, .4);
+}
+section img{
+    margin: 3rem;
+}
+footer{
+    text-align: center;
+}
