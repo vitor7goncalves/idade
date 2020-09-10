@@ -37,6 +37,6 @@ function verificar(){
        }
        //res.style.textAlign = "center"; (centralizando texto pelo JS).
        res.innerHTML = `${genero} de ${idade} anos`
-       res.appendChild(img);
+       res.appendChild(img);// Faz a imagem aparecer.
     }
 }
